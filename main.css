@@ -77,6 +77,10 @@ html, body {
   color: white;
 }
 
+.tawk-bubble-container .tawk-icon-right {
+  position:absolute;
+}
+
 @media only screen and (orientation: landscape) {
   #app {
     background-image: url("images/landscape.png");
